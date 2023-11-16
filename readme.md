@@ -47,25 +47,48 @@ It return prediction in the following format:
 visualization historically the number of accidents per category
 ### Accidents Category Visualization per year:
 
-<img src="./images/TotalaccidentCategoryperMonth.png"/>
+![image](https://github.com/Manish06097/DpsChallenge_AI/assets/73208573/b01efbaa-427c-40ce-b542-0aa2c26200ea)
 
 <br />
 
 ### Number of accidents per category:
 
-<img src="./images/TotalaccidentperCategoryperyear.png"/>
+![image](https://github.com/Manish06097/DpsChallenge_AI/assets/73208573/f56191f1-3032-4d0c-9ab2-acb8722e0ea9)
 
 <br />
 
 ### Number of accidents per Accident Type:
 
-<img src="./images/Totalaccidentpertypepermonth.png"/>
+![image](https://github.com/Manish06097/DpsChallenge_AI/assets/73208573/e520467e-ca87-45e1-9a03-27a8639feaf0)
 
 <br />
 
 ### Number of accidents per Accident Type:
 
-<img src="./images/Totalaccidentpertypeperyear.png"/>
+![image](https://github.com/Manish06097/DpsChallenge_AI/assets/73208573/68307e67-2721-449c-84fc-669438b2a0c8)
+
+
+Result Accuracy
+
+```
+MAE(Mean Absolute Error ) : 54.5
+```
+
+```
+R2 Score :0.98
+```
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br />
 
